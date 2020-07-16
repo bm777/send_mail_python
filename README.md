@@ -7,4 +7,4 @@ Send email in cascade wiwth python. you can send more thant 500 mails in less th
  - [x] Brain :)
 
 ### View of interface
-[Send email](assets/sent.png)
+![Send email](assets/sent.png)
