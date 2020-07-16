@@ -9,7 +9,7 @@ Send email in cascade with python3. you can send more thant 500 mails in less th
 
 ### How to have it
 make sure that you have gtk3 installed on your machine(Laptop). For my case, I have it on ubuntu 18.04.
-The best way for you to install dependencies, it is virtualenvwrapper. How to install it in 1 minute -> [https://youtu.be/Tl3q8Wm0jvI]
+The best way for you to install dependencies, it is virtualenvwrapper. How to install it in 1 minute -> [VIDEO](https://youtu.be/Tl3q8Wm0jvI)
 ```
 #for dependencies:
 pip install -r requirements.txt
