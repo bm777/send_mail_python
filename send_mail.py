@@ -25,7 +25,7 @@ def _m(to, subject, message):
     print('Email sent successfully')
 
 def _s(entry, e1, e2, e3):
-    e = [e1.get_text(), e2.get_text(), getText(e3)]
+    e = [e1.get_text(), e2.get_text(), getText(e3).encode("utf-8")]
     global mails
     global path
     global pb
